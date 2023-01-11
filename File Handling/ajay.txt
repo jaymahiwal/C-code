@@ -1,0 +1,4 @@
+LINE 1 HEllO WORLD !
+LINE 2 this is file which is created using ofstrem
+LINE 3 HEllO WORLD !
+LINE 4 this is file which is created using ofstrem
